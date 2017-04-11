@@ -1,6 +1,10 @@
 # SwiftModuleSample
 A sample Xcode workspace to develop Swift executable targets that link against pure Swift modules.
 
+## Disclaimer
+
+This might be out of date and unnecessary. `swift build` and `swift package generate-xcodeproj` go a long way these days.
+
 ## Intention
 
 Create a simple project configuration to enable developing a module in parallel with other targets. Everything in Swift.
